@@ -15,4 +15,13 @@
 - Quels sont les outils propres à chaque métier ? 
 - Quels sont les traits de caractère / qualités nécessaires pour chaque métier ?
 - Est-il possible de devenir un Développeur Fullstack “compétent” en 2023 / 2024 ? Pourquoi ?
-
+- Que vous inspirent ces mots ? (Développez) :
+    - maîtriser
+    - expert
+    - compétent
+    - spécialisé
+    - efficace
+    - efficient
+- Est-ce que “avoir des compétences” est synonyme de “être compétent” ?
+- Quelle est la différence entre “Software Engineer” et "Développeur" ? 
+- Quelles sont les principales évolutions de chaque métier ? (on démarre où et on finit où)
