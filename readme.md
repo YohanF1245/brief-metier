@@ -6,3 +6,4 @@ Objectifs :
 
 Sommaire :
 - [1 - Les métiers](/doc/1-metiers.md)
+- [2 - Les types d'entreprises](/doc/2-types-entreprises.md)
