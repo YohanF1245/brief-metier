@@ -7,3 +7,12 @@
     - Quels sont les principaux types de tests techniques ? 
         - Qu’allez-vous devoir travailler pour réussir ces tests ?
         - Que recherche-t-on dans l’élaboration de ces tests ? Qui recherche-t-on ?
+
+
+En amont de la préparation, il est important de veiller à sa e-réputation !
+
+- C’est quoi la e-réputation ? C’est quoi l’identité ? C’est quoi la réputation ?
+- Que dit Google sur vous ? (petit exercice pratique)
+- Quelles traces est-il possible de laisser en ligne ? 
+- Définissez le terme de “personal branding” 
+- Comment peut-on travailler son personal branding ? Illustrez avec des exemples concrets.
